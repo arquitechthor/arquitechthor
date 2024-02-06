@@ -15,7 +15,7 @@ My top 3 skills are:
 - 🥉 AWS (Amazon Web Services).
 
 The most recent repository names have the following structure:
-<name>-<service>-<role>
+`<name>-<service>-<role>`
 where:
 - name: is the name of the project.
 - service: is the service or function that the code fulfills within the project. This is used for service or microservices projects.
