@@ -14,6 +14,13 @@ My top 3 skills are:
 - 🥈 Java with Spring Boot.
 - 🥉 AWS (Amazon Web Services).
 
+The most recent repository names have the following structure:
+<name>-<service>-<role>
+where:
+- name: is the name of the project.
+- service: is the service or function that the code fulfills within the project. This is used for service or microservices projects.
+- role: can be bk for backend or fk for frontend.
+
 I'm working on [MAP](https://arquitechthor.github.io/map/) a Microservices Architecture Project.
 
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/guzman6001/).
