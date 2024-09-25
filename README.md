@@ -21,6 +21,4 @@ where:
 - service: is the service or function that the code fulfills within the project. This is used for service or microservices projects.
 - role: can be bk for backend or fk for frontend.
 
-I'm working on [MAP](https://arquitechthor.github.io/map/) a Microservices Architecture Project.
-
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/guzman6001/).
