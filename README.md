@@ -4,15 +4,16 @@ My name is Héctor Guzmán ([arquitechthor](https://arquitechthor.github.io/))..
 
 I'm a Software Developer. 
 
-My top 3 favorite positions/roles are:
-- 🥇 Scrum Master.
-- 🥈 Java Backend Developer.
-- 🥉 Software & Cloud Architecture.
+I have been a:
+- Software & Cloud Architect.
+- Java Backend Developer with microservices.
+- Scrum Master.
+- Teacher.
 
 My top 3 skills are:
-- 🥇 Scrum.
-- 🥈 Java with Spring Boot.
-- 🥉 AWS (Amazon Web Services).
+- 🥇 Java with Spring Boot.
+- 🥈 AWS (Amazon Web Services).
+- 🥉 Scrum.
 
 The most recent repository names have the following structure:
 `<name>-<service>-<role>`
