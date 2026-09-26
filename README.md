@@ -15,6 +15,10 @@ My top 3 skills are:
 - 🥈 AWS (Amazon Web Services).
 - 🥉 Scrum.
 
+My projects:
+- 🧰 [Kopi Tools](https://kopitools.link): personal productivity tools (goals, agenda, notes, media) on a shared AWS serverless backend.
+- 📚 [AWS Cert Study](https://arquitechthor.github.io/aws-cert-study/): study notes and original practice questions for AWS certifications, by service and category ([source](https://github.com/arquitechthor/aws-cert-study)).
+
 The most recent repository names have the following structure:
 `<name>-<service>-<role>`
 where:
