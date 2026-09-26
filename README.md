@@ -1,6 +1,6 @@
 ### Hello world 👋
 
-My name is Héctor Guzmán ([arquitechthor](https://arquitechthor.github.io/))...
+My name is Héctor Guzmán ([arquitechthor](https://arquitechthor.github.io/arquitechthor/))...
 
 I'm a Software Developer. 
 
