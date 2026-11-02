@@ -21,11 +21,4 @@ My projects:
 - ♟️ [Kopi Chess](https://github.com/arquitechthor/kopi-chess): open source educational project in chess and code. Play against five bots in your browser and get a move-by-move review of every game, all running locally with Docker.
 - 🤖 [Prompt Quest](https://github.com/arquitechthor/prompt-quest): agent arena where each player's strategy is a natural-language prompt, compiled by an LLM on Amazon Bedrock into a policy that a deterministic engine runs in battle-royale matches of up to 16 agents.
 
-The most recent repository names have the following structure:
-`<name>-<service>-<role>`
-where:
-- name: is the name of the project.
-- service: is the service or function that the code fulfills within the project. This is used for service or microservices projects.
-- role: can be bk for backend or fk for frontend.
-
 Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/guzman6001/).
